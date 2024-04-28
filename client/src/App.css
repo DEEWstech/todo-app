@@ -1,0 +1,33 @@
+#root {
+  text-align: center;
+}
+.label1,
+.label3 {
+  top: -25%;
+  left: 3%;
+}
+
+.label2 {
+  top: -5%;
+  left: 3%;
+}
+button {
+  background-color: #974fd0;
+}
+a {
+  color: #974fd0;
+}
+
+.edit {
+  background-color: #974fd0;
+}
+
+.delete {
+  color: #974fd0;
+  border: 1px solid;
+}
+.delete button{
+color: #974fd0;
+}
+
+
